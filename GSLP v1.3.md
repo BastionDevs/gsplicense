@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Bastion General Software Licensing Policy  
-**Version 2.53**
+**Version 1.3**
 
 ## 1. Use of the Package
 - Any/Everyone is allowed to use the software in this package for **LEGAL purposes**, NOT INCLUDING ToS or EULA of the intended platform (OS, Language, Usage, etc.).
@@ -22,7 +22,7 @@
 - Read the Project/Package's **CONTRIBUTING(.md)** file for instructions/information.
 =======
 # Bastion General Software Licensing Policy  
-**Version 2.53**
+**Version 1.3**
 
 ## 1. Use of the Package
 - Any/Everyone is allowed to use the software in this package for **LEGAL purposes**, NOT INCLUDING ToS or EULA of the intended platform (OS, Language, Usage, etc.).
@@ -42,5 +42,4 @@
 
 ## 5. Contributing to the Project/Package
 - Read the Project/Package's **CONTRIBUTING(.md)** file for instructions/information.
->>>>>>> 08a083f633191d3efacfa80990b58954cb5a286d
 - Contact the Author(s) for more information.

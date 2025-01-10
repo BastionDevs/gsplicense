@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Bastion General Software Licensing Policy  
-**Version 2.7 - Open Source Software**
+**Version 1.2 - Open Source Software**
 
 ## 1. Use of the Package
 
@@ -58,7 +58,7 @@ Bastion General Software Licensing Policy
 
 =======
 Bastion General Software Licensing Policy  
-**Version 2.7 - Open Source Software**
+**Version 1.2 - Open Source Software**
 
 ## 1. Use of the Package
 

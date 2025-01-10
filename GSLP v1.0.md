@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Bastion Software License  
-**General License Policy, v1.10**
+**General License Policy, v1.0**
 
 ## 1. Use of the Package
 - Any/Everyone is allowed to use the software in this package for **LEGAL purposes**, NOT INCLUDING ToS or EULA of the intended platform (OS, Language, Usage, etc.).
@@ -25,7 +25,7 @@ Bastion Software License
 ---
 =======
 Bastion Software License  
-**General License Policy, v1.10**
+**General License Policy, v1.0**
 
 ## 1. Use of the Package
 - Any/Everyone is allowed to use the software in this package for **LEGAL purposes**, NOT INCLUDING ToS or EULA of the intended platform (OS, Language, Usage, etc.).
@@ -48,4 +48,4 @@ Bastion Software License
 - Contact the Author(s) for more information.
 
 ---
->>>>>>> 08a083f633191d3efacfa80990b58954cb5a286d
+

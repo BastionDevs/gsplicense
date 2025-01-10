@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Bastion General Software Licensing Policy  
-**Version 1.35 (*For DMALib*)**
+**Version 1.1
 
 ## 1. Use of the Package
 - Bastion SDG is not responsible for any consequences or damages caused by the use of this package.
@@ -25,7 +25,7 @@
 
 =======
 # Bastion General Software Licensing Policy  
-**Version 1.35 (*For DMALib*)**
+**Version 1.1 (*For DMALib*)**
 
 ## 1. Use of the Package
 - Bastion SDG is not responsible for any consequences or damages caused by the use of this package.
@@ -48,5 +48,4 @@
 ## 5. Copyright Statement
 - Copyright © 20XX Bastion Singapore, Software Development Group (Bastion SDG). All Rights Reserved.
 
->>>>>>> 08a083f633191d3efacfa80990b58954cb5a286d
 ---
