@@ -1,6 +1,6 @@
 
 # Bastion General Software Licensing Policy  
-**Version 1.1
+**Version 1.1**
 
 ## 1. Use of the Package
 - Bastion SDG is not responsible for any consequences or damages caused by the use of this package.
