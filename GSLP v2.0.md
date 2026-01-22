@@ -6,7 +6,7 @@
 
 
 ```
-Copyright © 2021-2025 Bastion Singapore, Software Development Group (Bastion SDG). All rights reserved.
+Copyright © 2021-2026 Bastion Singapore, Software Development Group (Bastion SDG). All rights reserved.
 ```
 ```
 Anyone is permitted to distribute copies of this license file, but not permitted to modify it.
